@@ -19,3 +19,4 @@ git submodule update --init
 npm install
 npm start
 ```
+Frontend Proxy by SealCentral 
