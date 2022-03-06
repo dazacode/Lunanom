@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="roboPortait.png">
+	<!-- Created with Adobe Animate version 19.2.0.405 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="robo_potrait0000" x="0" y="0" width="500" height="320" frameX="0" frameY="-1" frameWidth="523" frameHeight="321"/>
+	<SubTexture name="robo_potrait0001" x="500" y="0" width="500" height="320" frameX="-8" frameY="-1" frameWidth="523" frameHeight="321"/>
+	<SubTexture name="robo_potrait0002" x="0" y="320" width="500" height="320" frameX="-16" frameY="-1" frameWidth="523" frameHeight="321"/>
+	<SubTexture name="robo_potrait0003" x="500" y="320" width="500" height="320" frameX="-23" frameY="0" frameWidth="523" frameHeight="321"/>
+</TextureAtlas>

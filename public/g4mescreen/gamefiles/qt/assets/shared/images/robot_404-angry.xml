@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="robot_404-angry.png">
+	<!-- Created with Adobe Animate version 19.2.0.405 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="KB404ALT_Down0000" x="2" y="2" width="742" height="602" frameX="-62" frameY="0" frameWidth="876" frameHeight="602"/>
+	<SubTexture name="KB404ALT_Down0001" x="746" y="2" width="787" height="601" frameX="-26" frameY="-1" frameWidth="876" frameHeight="602"/>
+	<SubTexture name="KB404ALT_Down0002" x="1535" y="2" width="803" height="602" frameX="-31" frameY="0" frameWidth="876" frameHeight="602"/>
+	<SubTexture name="KB404ALT_Down0003" x="2340" y="2" width="843" height="597" frameX="-9" frameY="-4" frameWidth="876" frameHeight="602"/>
+	<SubTexture name="KB404ALT_Down0004" x="3185" y="2" width="876" height="579" frameX="0" frameY="-21" frameWidth="876" frameHeight="602"/>
+	<SubTexture name="KB404ALT_Left0000" x="2" y="606" width="778" height="793" frameX="-36" frameY="-35" frameWidth="814" frameHeight="828"/>
+	<SubTexture name="KB404ALT_Left0001" x="782" y="606" width="799" height="785" frameX="-8" frameY="-33" frameWidth="814" frameHeight="828"/>
+	<SubTexture name="KB404ALT_Left0002" x="1583" y="606" width="802" height="781" frameX="0" frameY="-36" frameWidth="814" frameHeight="828"/>
+	<SubTexture name="KB404ALT_Left0003" x="2387" y="606" width="789" height="809" frameX="-8" frameY="-8" frameWidth="814" frameHeight="828"/>
+	<SubTexture name="KB404ALT_Left0004" x="3178" y="606" width="762" height="820" frameX="-24" frameY="0" frameWidth="814" frameHeight="828"/>
+	<SubTexture name="KB404ALT_Right0000" x="2" y="1428" width="659" height="646" frameX="-8" frameY="0" frameWidth="667" frameHeight="648"/>
+	<SubTexture name="KB404ALT_Right0001" x="663" y="1428" width="660" height="645" frameX="-6" frameY="-1" frameWidth="667" frameHeight="648"/>
+	<SubTexture name="KB404ALT_Right0002" x="1325" y="1428" width="649" height="645" frameX="-6" frameY="-2" frameWidth="667" frameHeight="648"/>
+	<SubTexture name="KB404ALT_Right0003" x="1976" y="1428" width="639" height="645" frameX="-4" frameY="-3" frameWidth="667" frameHeight="648"/>
+	<SubTexture name="KB404ALT_Right0004" x="2617" y="1428" width="622" height="641" frameX="0" frameY="-7" frameWidth="667" frameHeight="648"/>
+	<SubTexture name="KB404ALT_Up0000" x="2" y="2076" width="899" height="825" frameX="-1" frameY="-5" frameWidth="904" frameHeight="830"/>
+	<SubTexture name="KB404ALT_Up0001" x="903" y="2076" width="904" height="830"/>
+	<SubTexture name="KB404ALT_Up0002" x="1809" y="2076" width="892" height="790" frameX="-5" frameY="-40" frameWidth="904" frameHeight="830"/>
+	<SubTexture name="KB404ALT_Up0003" x="2703" y="2076" width="872" height="801" frameX="-14" frameY="-28" frameWidth="904" frameHeight="830"/>
+	<SubTexture name="KB404ALT_Up0004" x="2" y="2908" width="865" height="795" frameX="-20" frameY="-34" frameWidth="904" frameHeight="830"/>
+	<SubTexture name="KB404ALT_idleBabyRage0000" x="869" y="2908" width="868" height="642" frameX="0" frameY="-2" frameWidth="868" frameHeight="645"/>
+	<SubTexture name="KB404ALT_idleBabyRage0001" x="1739" y="2908" width="849" height="645" frameX="-15" frameY="0" frameWidth="868" frameHeight="645"/>
+	<SubTexture name="KB404ALT_idleBabyRage0002" x="2590" y="2908" width="838" height="640" frameX="-18" frameY="-4" frameWidth="868" frameHeight="645"/>
+	<SubTexture name="KB404ALT_idleBabyRage0003" x="2" y="3705" width="848" height="641" frameX="-2" frameY="-3" frameWidth="868" frameHeight="645"/>
+	<SubTexture name="KB404ALT_idleBabyRage0004" x="852" y="3705" width="835" height="641" frameX="-18" frameY="-3" frameWidth="868" frameHeight="645"/>
+	<SubTexture name="KB404ALT_idleBabyRage0005" x="1689" y="3705" width="813" height="642" frameX="-36" frameY="-2" frameWidth="868" frameHeight="645"/>
+	<SubTexture name="KB404ALT_idleBabyRage0006" x="2504" y="3705" width="835" height="644" frameX="-22" frameY="0" frameWidth="868" frameHeight="645"/>
+	<SubTexture name="KB404ALT_idleBabyRage0007" x="2" y="4351" width="832" height="643" frameX="-29" frameY="-1" frameWidth="868" frameHeight="645"/>
+	<SubTexture name="KB404ALT_idleBabyRage0008" x="836" y="4351" width="829" height="644" frameX="-38" frameY="0" frameWidth="868" frameHeight="645"/>
+	<SubTexture name="KB404ALT_idleBabyRage0009" x="1667" y="4351" width="812" height="643" frameX="-49" frameY="-1" frameWidth="868" frameHeight="645"/>
+</TextureAtlas>
