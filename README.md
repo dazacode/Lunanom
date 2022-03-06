@@ -1,7 +1,7 @@
 
 <h2>This is a frontend made for the Ultraviolet proxy.</h2>
 
-<a href='https://github.com/titaniumnetwork-dev/ultraviolet-node'>view source</a>
+# <a href='https://github.com/titaniumnetwork-dev/ultraviolet-node'>View Source</a>
 <p>Installation</p>
 You can run this on replit.
 <p>
