@@ -19,5 +19,8 @@ git submodule update --init
 npm install
 npm start
 ```
-Frontend by SealCentral (DazaSeal)
-Backend by TitaniumNetwork and SealCentral (Abnumality)
+# Frontend by DazaSeal
+		      
+# Backend by <a href="https://github.com/titaniumnetwork-dev">Titanium Network</a> and Abnumality
+
+<h4>lunar 2022</h4>
