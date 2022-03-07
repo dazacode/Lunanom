@@ -19,4 +19,5 @@ git submodule update --init
 npm install
 npm start
 ```
-Frontend Proxy by SealCentral 
+Frontend by SealCentral (DazaSeal)
+Backend by TitaniumNetwork and SealCentral (Abnumality)
