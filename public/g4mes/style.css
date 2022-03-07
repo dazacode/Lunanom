@@ -62,7 +62,7 @@ nav .icon {
     text-align: left;
   }
 }
-#card1, #card2, #card3, #card4, #card5 {
+#card1, #card2, #card3, #card4, #card5, #card6 {
   background-color: #3d7eff;
   text-align: center;
   floating: center;
@@ -75,13 +75,13 @@ nav .icon {
 
 }
 
-#card1:hover, #card2:hover, #card3:hover, #card4:hover, #card5:hover{
+#card1:hover, #card2:hover, #card3:hover, #card4:hover, #card5:hover, #card6:hover {
   background-color:  #004be0;
   cursor: pointer;
   transition: 0.5s;
 }
 #theg4mes {
-  margin-left: 40.5px;
+  margin-left: 185px;
   margin-top: 45.5px;
   max-width: 1000px;
   margin: 10 auto;

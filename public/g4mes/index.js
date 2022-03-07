@@ -22,3 +22,7 @@ function loadFNF() {
 function loadRoblox() {
     window.location.replace('../g4mescreen/roblox.html');
 }
+
+function load1v1() {
+    window.location.replace('../g4mescreen/1v1.html');
+}
