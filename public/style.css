@@ -73,13 +73,6 @@ input[type=text] {
   color: white;
   
 }
-button {
-  width: 10%
-  height: 10%
-  border: -1px white;
-  border-radius: 45.5px;
-
-}
 #card1, #card2, #card3, #card4 {
   background-color: #3d7eff;
   text-align: center;

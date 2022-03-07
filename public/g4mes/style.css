@@ -119,3 +119,26 @@ p {
   margin-right: 10px;
 }
 
+#card3 img {
+  width: 150px;
+  height: 150px;
+  margin: -50px;
+  margin-top: 50px;
+  margin-right: 10px;
+}
+
+#card2 img {
+  width: 150px;
+  height: 150px;
+  margin: -50px;
+  margin-top: 30px;
+  margin-right: 10px;
+}
+
+#card1 img {
+  width: 175px;
+  height: 150px;
+  margin: -60px;
+  margin-top: 10px;
+  margin-right: 10px;
+}
