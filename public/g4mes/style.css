@@ -91,3 +91,6 @@ nav .icon {
 flex-direction: row;
   justify-content: center;
 }
+p {
+  color: white;
+}
