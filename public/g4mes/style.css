@@ -64,7 +64,6 @@ nav .icon {
 }
 #card1, #card2, #card3, #card4, #card5, #card6 {
   background-color: #3d7eff;
-  text-align: center;
   floating: center;
   width: 5.5%;
   height: 150px;
@@ -72,6 +71,7 @@ nav .icon {
   padding: 4.5rem;
   border-radius: 5.5px;
     transition: 0.5s;
+  text-align: center;
 
 }
 
@@ -94,3 +94,28 @@ flex-direction: row;
 p {
   color: white;
 }
+
+#card6 img {
+  width: 300px;
+  height: 160px;
+  margin: -136px;
+  margin-top: 45px;
+  margin-right: 10px;
+}
+
+#card5 img {
+  width: 150px;
+  height: 150px;
+  margin: -50px;
+  margin-top: 30px;
+  margin-right: 10px;
+}
+
+#card4 img {
+  width: 150px;
+  height: 175px;
+  margin: -50px;
+  margin-top: -7px;
+  margin-right: 10px;
+}
+
