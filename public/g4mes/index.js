@@ -1,8 +1,3 @@
-window.onload = function () {
-    var el = document.getElementById("card1");
-    el.onclick = loadMario;
-}
-
 function loadMario() {
     window.location.replace('../g4mescreen/supermario64.html');
 }

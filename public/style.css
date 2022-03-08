@@ -70,8 +70,7 @@ input[type=text] {
   border: 1px black;
   border-radius: 10px;
   background-color: #141414;
-  color: white;
-  
+  color: white; 
 }
 #card1, #card2, #card3, #card4 {
   background-color: #3d7eff;
