@@ -1,44 +1,8 @@
+@import "../navbar.css";
 body {
   margin: 0;
   font-family: Arial, Helvetica, sans-serif;
   background-color: #262626;
-}
-
-nav {
-  overflow: hidden;
-  background-color: #1c1c1c;
-  border-radius: 0px 0px 10.5px 10.5px
-}
-
-nav a {
-  float: right;
-  display: block;
-  color: #ffffff;
-  text-align: center;
-  padding: 15px 15px;
-  text-decoration: none;
-  font-size: 15.5px;
-}
-
-nav a:hover {
-  background-color: #0f0f0f;
-  color: #ffffff;
-  transition: 1.5s;
-}
-
-nav a.active {
-  background-color: #4c24ff;
-  color: white;
-}
-
-nav a.active:hover {
-  background-color: #2f00ff;
-  color: white;
-  transition: 1.5s;
-}
-
-nav .icon {
-  display: none;
 }
 
 @media screen and (max-width: 555px) {
@@ -61,4 +25,57 @@ nav .icon {
     display: block;
     text-align: left;
   }
+}
+
+#card1 {
+  outline: 3.5px solid #004be0;
+  text-align: center;
+  floating: center;
+  width: 5.5%;
+  height: 150px;
+  color: white;
+  padding: 4.5rem;
+  border-radius: 5.5px;
+    transition: 0.5s;
+}
+
+#card1:hover {
+  background-color:  #004be0;
+  cursor: pointer;
+  transition: 0.5s;
+}
+
+.setting {
+   display: block;
+  text-align: center;
+}
+
+
+form {
+  margin-left: 100px;
+  background-color: blue;
+  width: 500px;
+  height: 250px;
+  border-radius: 15.5px;
+}
+
+#submitButton {
+  border-radius: 5px;
+  background-color: purple;
+  border: 0;
+  height: 40px;
+}
+
+input[type=text] {
+  padding: 5px 10px;
+    margin-left: 15px;
+  margin-top: 25px;
+  border: none;
+  border-radius: 10px;
+  height: 30px;
+  width: 215px;
+}
+
+input[type=submit]{
+    font-family: sans-serif;
 }

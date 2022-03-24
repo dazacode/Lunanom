@@ -5,17 +5,18 @@ body {
 }
 
 nav {
+  margin-top: 10.5px;
+  margin-right: 10px;
   overflow: hidden;
-  background-color: #1c1c1c;
-  border-radius: 0px 0px 10.5px 10.5px
 }
 
 nav a {
   float: right;
+  margin-left: 5.5px;
   display: block;
   color: #ffffff;
   text-align: center;
-  padding: 15px 15px;
+  padding: 20px 20px;
   text-decoration: none;
   font-size: 15.5px;
 }
@@ -24,11 +25,14 @@ nav a:hover {
   background-color: #0f0f0f;
   color: #ffffff;
   transition: 1.5s;
+  border-radius: 10px;
 }
 
 nav a.active {
   background-color: #4c24ff;
   color: white;
+  border-radius: 10px;
+  
 }
 
 nav a.active:hover {
@@ -40,6 +44,7 @@ nav a.active:hover {
 nav .icon {
   display: none;
 }
+
 
 @media screen and (max-width: 555px) {
   nav a:not(:first-child) {display: none;}
@@ -62,7 +67,12 @@ nav .icon {
     text-align: left;
   }
 }
-input[type=text] {
+
+h1 {
+  font-size: 45.5px;
+}
+input {
+
   width: 52.5%;
   padding: 20px 20px;
   margin: 10px 0;
@@ -70,10 +80,21 @@ input[type=text] {
   border: 1px black;
   border-radius: 10px;
   background-color: #141414;
+    transition: 0.5s;
+}
+input[type=text] {
+  transition: 0.5s;
   color: white; 
+  
+
+}
+input:hover {
+  -webkit-box-shadow: 0px 10px 35px 0px rgba(0,0,0,0.46); 
+box-shadow: 0px 10px 35px 0px rgba(0,0,0,0.46);
+  transition: 0.5s;
 }
 #card1, #card2, #card3, #card4 {
-  background-color: #3d7eff;
+  outline: 3.5px solid #004be0;
   text-align: center;
   floating: center;
   width: 5.5%;
@@ -92,9 +113,20 @@ input[type=text] {
 #featured {
   max-width: 1000px;
   margin: 0 auto;
+  margin-top: 45.5px;
   display: grid;
   grid-gap: 1rem;
   display: flex;
 flex-direction: row;
   justify-content: center;
 }
+.clock {
+    position: absolute;
+    width: 350px;
+    top: 98%;
+    text-align: right;
+    left: 25px;
+    transform: translateX(-50%) translateY(-50%);
+    color: #3d7eff;
+    font-size: 25px;
+    letter-spacing: 3px;

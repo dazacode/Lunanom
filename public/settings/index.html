@@ -5,6 +5,11 @@
 <link rel="stylesheet" href="style.css">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
    <script src="https://code.jquery.com/jquery-1.10.2.js"></script>
+  <script src="index.js"></script>
+<script>
+  var tabName = localStorage.getItem('tabname');
+  document.title = (tabName)
+</script>
 </head>
 <body>
 
@@ -16,6 +21,11 @@ $(function(){
   $("#buildTopnav").load("../navbar.html");
 });
 </script>
-
+<div id="setting">
+  <form placeholder="Change Tab Title..." onsubmit="buttonCode();">
+    <input type="text" value="" id="nameChange"</input>
+    <input type="button" value="Name Tab" onclick="buttonCode();" id="submitButton"</input>
+  </form>
+</div>
 </body>
 </html>
