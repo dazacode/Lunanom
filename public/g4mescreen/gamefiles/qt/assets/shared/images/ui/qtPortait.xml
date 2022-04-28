@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<TextureAtlas imagePath="qtPortait.png">
-	<!-- Created with Adobe Animate version 19.2.0.405 -->
-	<!-- http://www.adobe.com/products/animate.html -->
-	<SubTexture name="finished_qt_sprite_potrait0000" x="2" y="2" width="500" height="320" frameX="0" frameY="-1" frameWidth="523" frameHeight="321"/>
-	<SubTexture name="finished_qt_sprite_potrait0001" x="504" y="2" width="500" height="320" frameX="-8" frameY="-1" frameWidth="523" frameHeight="321"/>
-	<SubTexture name="finished_qt_sprite_potrait0002" x="2" y="324" width="500" height="320" frameX="-16" frameY="-1" frameWidth="523" frameHeight="321"/>
-	<SubTexture name="finished_qt_sprite_potrait0003" x="504" y="324" width="500" height="320" frameX="-23" frameY="0" frameWidth="523" frameHeight="321"/>
-</TextureAtlas>

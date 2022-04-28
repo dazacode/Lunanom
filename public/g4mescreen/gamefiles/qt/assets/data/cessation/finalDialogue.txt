@@ -1,6 +1,0 @@
-:qt:Well that was fun!
-:bf:Beep!
-:kb:...
-:qt:I hope we can sing again next time we meet.
-:kb:(I hope not).
-:gf:Goodbye.
